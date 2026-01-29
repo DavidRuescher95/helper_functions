@@ -2,7 +2,7 @@
 
 ## Overview
 
- Classes and re-usable scripts for NGS data analysis
+ Classes and re-usable scripts for different bioinformatics data analysis
 
 ## Contents
 
@@ -38,3 +38,7 @@ Contains Python classes for NGS data analysis.
     - Performs PCA
     - Produces graph based on k-nearest neighbors
     - Executes community detection (Louvain)
+
+### bin
+
+Contains executable helper functions
